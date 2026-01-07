@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Ears -->
+  <polygon points="15,35 25,5 40,30" fill="#7f8fa6"/>
+  <polygon points="85,35 75,5 60,30" fill="#7f8fa6"/>
+  <!-- Face -->
+  <ellipse cx="50" cy="55" rx="40" ry="35" fill="#7f8fa6"/>
+  <!-- Eyes -->
+  <ellipse cx="35" cy="50" rx="8" ry="10" fill="#1a1a2e"/>
+  <ellipse cx="65" cy="50" rx="8" ry="10" fill="#1a1a2e"/>
+  <circle cx="35" cy="52" r="4" fill="#e94560"/>
+  <circle cx="65" cy="52" r="4" fill="#e94560"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="65" rx="5" ry="4" fill="#e94560"/>
+</svg>
